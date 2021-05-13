@@ -10,5 +10,7 @@ package Java.Classes;
  * @author my
  */
 public class JC18 {
-    
+    public static void main(String[] args){
+        
+    }
 }
