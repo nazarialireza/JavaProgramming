@@ -11,6 +11,6 @@ package Java.Classes;
  */
 public class JC18 {
     public static void main(String[] args){
-        
+        // some note here
     }
 }
